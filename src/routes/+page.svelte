@@ -1,6 +1,6 @@
 <body>
 <h1><center>China Clicker</center></h1>
-<h2><center>{numberOfClicks} chinese people</center></h2>
+<h2><center>{numberOfClicks} Chinese people</center></h2>
 
 <style>
     body{
