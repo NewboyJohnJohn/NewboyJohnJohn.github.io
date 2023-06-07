@@ -110,9 +110,6 @@
         border-radius: 15px;
     }
 
-    .taskdone{
-        text-align: end;
-    }
 
     .task {
         margin: 5px;
